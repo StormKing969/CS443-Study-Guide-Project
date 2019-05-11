@@ -1,0 +1,1373 @@
+commit a334c919f301def812214e802d20fe6e5db9877a
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 18:23:59 2017 -0500
+
+    Added platform support for NVIDIA SHIELD. Fixes #9.
+
+commit 7f36895bb8fef5e379dd34b65cc69c45c2445e86
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 23:31:37 2017 -0500
+
+    Implemented Bank/Unbank in SaveEdit.
+
+commit a5666caafbb0df6908058b239e6cfce919792bd7
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 23:01:46 2017 -0500
+
+    Added SaveEdit DotSettings.
+
+commit 845622c264e7e8c0f23f1c2ca2bb953d96f2ddc4
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 22:59:39 2017 -0500
+
+    Added check all/uncheck all to Fast Travel tab.
+
+commit b5de7be56ec14652e9cb73eb92c160f941d96705
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 22:59:10 2017 -0500
+
+    Make it clear that reserved currencies are unused.
+
+commit 2d1ede44bd8923c5414cf67050a355614a0ea66b
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 22:01:45 2017 -0500
+
+    Updated AppVeyor config.
+
+commit 3bba7766d0ffc8d4910a6b6634adfd24832e3d4a
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 21:59:59 2017 -0500
+
+    Removed old version template file.
+
+commit 1ad633ae26ab772c380895b3c7910c87cbacc31e
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 21:52:42 2017 -0500
+
+    Renamed README.txt.
+
+commit 32fb526564aa1f4c6ac8cda49e5a3ecbad9da324
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 21:52:25 2017 -0500
+
+    Managed LZO!
+
+commit dfb4aa5bc63074eced61809943bc9039e657dfaa
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 18:46:07 2017 -0500
+
+    Tentative PSVita support & general platform handling improvements.
+
+commit bd42b630ed8ce07ca9409b62295be62c7ad27bd4
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 06:47:37 2017 -0500
+
+    Added stub README.
+
+commit edac4213be9bcb2c13c5575c1fa7fbea7af9e50b
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 06:42:44 2017 -0500
+
+    Moved some dependencies in other to pull from NuGet.
+
+commit 93170e6680a4ae00281c93630cce6976379f3d22
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 06:41:31 2017 -0500
+
+    Removed old Test project.
+
+commit b529842289a56473f3845648d8cd073ac5d1e373
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 06:38:50 2017 -0500
+
+    Updated assembly info.
+
+commit 0497eb7c04c3898662bf8ff2645d0770ebb563f2
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 05:46:54 2017 -0500
+
+    Updated AppVeyor config.
+
+commit 44a1ac6cd4e5aaf7bd39d2f8ec05716646810dfb
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 05:25:39 2017 -0500
+
+    Added AppVeyor config.
+
+commit 91d4b7d3e37e192e677fb3fe8679145f44af52bf
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 05:20:07 2017 -0500
+
+    Updated SaveEdit packaging configuration.
+
+commit 78d008c68b73ee91312c20f86cea57e2f9d64efa
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 05:11:44 2017 -0500
+
+    Removed old build scripts.
+
+commit e9ebfda42057f82d12d4f329cc9bdb8a20a76295
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 05:10:47 2017 -0500
+
+    Added external depedencies.
+
+commit 9467c3b670e70f08752b8db51e4c364578ac0a74
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 05:08:52 2017 -0500
+
+    Shuffling things around into a better structure.
+
+commit d47fa3cb0683b9c11dde19967bd5c234279d7e99
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 04:58:41 2017 -0500
+
+    License bump.
+
+commit 48fd751328171f15dce64e2c427d3e6f133b31ed
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Jul 19 04:49:58 2017 -0500
+
+    Added .gitignore.
+
+commit 36c1bcb0a7db008a5d83f73ebe6f913e19e4ff44
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat May 28 00:16:44 2016 +0000
+
+    Fixed NuGet settings for SaveEdit.
+
+commit 82603680ed8f0393afdd4d280e800d6224f2d87a
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat May 28 00:05:48 2016 +0000
+
+    Embedding of dependent assemblies for easier distribution.
+
+commit 9e8acfab0218b8661fe6645c011d30dc415d2acd
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Nov 13 18:08:04 2015 +0000
+
+    Don't enforce FIPS policy.
+
+commit bede6258c2fc5a5027772c6f168d253cddba6dfa
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 31 13:21:35 2015 +0000
+
+    Oops.
+
+commit 2d90edab45d9941f32c3c31a968e82393bd0517b
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 31 10:33:14 2015 +0000
+
+    Fixed GameInfo resources.
+
+commit 7419001c7d1b1d7398fa43442390bee8738e06a2
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 31 09:50:16 2015 +0000
+
+    Fixed support for VehicleSteeringMode.
+
+commit bb4b6cc458975dc9b1b2cfa03d6b520b430af414
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 31 07:47:28 2015 +0000
+
+    Fancy up About.
+
+commit 1c7889aac18070a4bbac535f34294669e1f91160
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 31 06:44:32 2015 +0000
+
+    Added support for VehicleSteeringMode.
+
+commit 837eb3f46afa90fce341420ec58701c3f5367c2d
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 31 06:38:32 2015 +0000
+
+    Updated GameInfo resources for October 29, 2015 update (build 1055911).
+
+commit 5b5cb1b21af10f87056d5117fc86108d69070002
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Feb 16 23:33:34 2015 +0000
+
+    Better name property. for WillowTwoPlayerSaveGame.
+
+commit f6cda370a19c910113e3bda21c30ddc7d70f30d4
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Feb 16 23:28:07 2015 +0000
+
+    Added item type filter.
+
+commit 6da48dcee7513ce63f6bc19d5822eb6b41549e47
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jan 30 10:14:01 2015 +0000
+
+    Updated Newtonsoft.Json to 6.0.8.
+
+commit eff95b72766a20226861c1160261eb178eaee781
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jan 30 10:08:31 2015 +0000
+
+    Backporting item handling, UI updates from BLOZ.
+
+commit 1026025d6f6b5ba5988375b1f887047313f87caa
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jan 30 09:36:21 2015 +0000
+
+    Backporting about info from BLOZ.
+
+commit f3b4e1857828dc683957b58b1012cdb5ec873d65
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jan 30 09:34:16 2015 +0000
+
+    Bumped year.
+
+commit 00900f8a86806bac2d0aaa5ab9366cb8d03800a1
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jan 30 09:30:13 2015 +0000
+
+    - Corrected LZO support on 64-bit. (Stack corruption, ho! How did this ever work before?)
+    - Updated LZO to 2.08.
+    - Fixed distribution building for Any CPU.
+
+commit 8ff54dd262c4075549633dabd39389067fba80e6
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 20 18:23:58 2014 +0000
+
+    Pluralize!
+
+commit 0a11aa6144936166160b86dde7f5e553e974f7d4
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 19 06:22:41 2014 +0000
+
+    Fixed seraph crystals icon column.
+
+commit 46409af25afadcaa3f8de060e75a7b8fae7a6227
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 18 20:09:55 2014 +0000
+
+    Fixed a bug with vehicle customization handling.
+
+commit 9dcd5ab602514f3f876f2dfa4733174ba70a1178
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 18 19:32:41 2014 +0000
+
+    Fixed an extremely minor bug with serialization handling of item and weapon mementos.
+
+commit d13e98bd649fc6b229d4270ec14184b799700c27
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Jul 16 00:50:51 2014 +0000
+
+    Added support to GameInfo, SaveEdit for HasFullName.
+
+commit 69129ce81c9150fefdfaff33cbf98ced714a8681
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Jul 16 00:32:14 2014 +0000
+
+    Updated GameInfo resources for previous commit.
+
+commit 55c8f04b5e9e7bcca2392fb9e39e037c20cfa9fa
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Jul 16 00:29:55 2014 +0000
+
+    Updated GameInfo resources for Pre-sequel DLC.
+
+commit dace0f83b12fe272eaad59bd4ee85ceaf6dd7d9d
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Feb 11 16:49:49 2014 +0000
+
+    Updated GameInfo resources for Wedding Day Massacre, Son of Crawmerax DLCs.
+
+commit 82191202be65ac1a726c86100f95c3d2bb3f5dfa
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Nov 26 21:11:09 2013 +0000
+
+    Updated GameInfo resources for Wattle Gobbler DLC.
+
+commit 6546435d248f3353c646594f6a9d0cb101b45245
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 22 17:40:00 2013 +0000
+
+    Display count in Backpack and Bank tab text.
+
+commit 9c880fdd1222eda3dd81ed19900d5aa58acbd106
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 22 16:52:27 2013 +0000
+
+    Updated GameInfo resources for Bloody Harvest DLC.
+
+commit f5fad8701e830a84d5b6639a9a8c9ae4ff24178e
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Sep 22 19:22:11 2013 +0000
+
+    Corrected saving of vehicle skins in SaveEdit.
+
+commit 77912af15e4d4292520d07b11bb195b659535b87
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Sep 22 17:30:13 2013 +0000
+
+    Added Import Stats button to General tab in SaveEdit.
+
+commit 03ae91186c32cfe8c7c5e11e27129bdc7106ca79
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Sep 22 17:23:59 2013 +0000
+
+    Corrected distribution building (removed SparkTmsPack from build).
+
+commit ec2a15dee98c4414822fc925a1621a479c75818e
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Sep 22 17:20:43 2013 +0000
+
+    License bump.
+
+commit 0a05641e3f5e3bb315ad1f17d1b21d741b46a31b
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Sep 22 17:19:46 2013 +0000
+
+    - Added SparkTmsPack project.
+    - Moved blacklist related functions to its own helper class.
+
+commit 46b04015352f1b9badab419515c0ad374c81811a
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Sep 15 22:57:33 2013 +0000
+
+    Blacklisted the Semi-auto Sniper Rifle via other ways, too.
+
+commit 4b889d92dae8c1f8a578c41a48a5ac9730c5009d
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Sep 15 22:47:10 2013 +0000
+
+    Blacklisted the Semi-auto Sniper Rifle.
+
+commit e3ff73868f7bbb207b05e2cb120ec97bec556da6
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Sep 9 06:47:01 2013 +0000
+
+    - Bumped Extended WPF Toolkit version up to 2.0.0.
+    - Removed StatsData property from Raw tab whitelist.
+
+commit 1bc43c40f359b67086bc75052de13feea5eae2bb
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Sep 7 11:14:55 2013 +0000
+
+    - Corrected name of property in WillowTwoPlayerSaveGame.
+    - Added whitelist of editable properties in Raw instead of displaying all by default, to prevent editing of properties that are handled by the save editor and would be ignored if edited in raw.
+
+commit 0206449159d6d36401b92a87b8c2d6783092734b
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Sep 7 10:50:11 2013 +0000
+
+    - Added expander for known currencies.
+    - Trying out new tab orientation, not sure how much I like it.
+    - Corrected some names in WillowTwoPlayerSaveGame.
+
+commit 407aa951f87c081c98b52ae7bf8381ecb5d14291
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Sep 7 03:51:12 2013 +0000
+
+    - Corrected regression of problem related to save expansion data fixed in r179.
+    - Refactored save expansion data handling.
+
+commit b57a7a9a4f415a29e4b8054551c7b62f4ec719e5
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Thu Sep 5 05:05:31 2013 +0000
+
+    Implemented support for serialization of StatsData.
+
+commit b3afbad5926eade03b6de6f2ca6dc0584d73b854
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Thu Sep 5 03:13:23 2013 +0000
+
+    - Moved open and save dialog handling for save files to its own class in SaveEdit.
+    - Cleaned up composition imports and exports in SaveEdit.
+    - Moved SaveEdit import capabilities to General from Character.
+
+commit 8dccd9b09e3833a0eacba504996b6483c7cedff2
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Thu Sep 5 02:09:49 2013 +0000
+
+    Fixed Duplicate in BackpackView/BankView.
+
+commit e58cd4262304d2b13f85582efdd792d4f6e80943
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Thu Sep 5 02:08:54 2013 +0000
+
+    Effectively undone last commit + better sizing for weird resolution/DPI settings?
+
+commit 0b27a15d879eaa6a4122753b26e10d8b19fe83fa
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Thu Sep 5 01:44:54 2013 +0000
+
+    An attempt at DPI-independent window sizing.
+
+commit 56c7d61c5f3b3aab031901894fcfb830e61fc542
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Thu Sep 5 00:31:21 2013 +0000
+
+    - Corrected Sync All on BackpackViewModel.
+    - Corrected OverpowerLevel invalid value check on CharacterViewModel.
+
+commit 741e7eaaafcc2fb8549f29c4c155e8318fd72fb0
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Sep 4 09:33:22 2013 +0000
+
+    Correct values of IsDLCPlayerClass and DLCPlayerClassPackageId on saving in SaveEdit.
+
+commit 0947034e24db13655a8b137c043e2a10463cdbb3
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Sep 4 09:11:30 2013 +0000
+
+    Build distributable copies using a clean clone rather than the parent directory.
+
+commit e70a0881d98b20960757abe0960c17aecc7c952a
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Sep 4 08:10:49 2013 +0000
+
+    - Rejiggered how lists are handled for save file serialization, should correct issues regarding modifying lists in the Raw tab in SaveEdit.
+    - Added editing of OverpowerLevel to CharacterViewModel.
+    - Added keyboard shortcut for duplicating items on the BackpackView/BankView.
+    - BackpackViewModel and BankViewModel now sync levels to exp level + overpower level.
+    - Keyboard shortcuts now visible where appropriate.
+    - Corrected maximum level to 72.
+
+commit 0657d47dbac2847d1e3ef73c7dbb38ef70bc8f06
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Sep 4 02:58:54 2013 +0000
+
+    Another license bump.
+
+commit 7565af67ab68cf6a6aae58d21ec03532f78753da
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Aug 30 11:25:06 2013 +0000
+
+    License bump.
+
+commit 72c0ba78a2cbd8858741a7668be140db1c9cee8f
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Aug 30 11:21:57 2013 +0000
+
+    - Increased default window size to 800x560 (from 720x560).
+    - Moved character-specific stuff on the General tab to a new Character tab.
+    - Added a new Vehicle tab, for adjusting vehicle skins.
+
+commit 181bac06431624d03d171425687ca9c54e6d2f40
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Aug 30 11:18:55 2013 +0000
+
+    Initialized Customizations by default in ChosenVehicleCustomization.
+
+commit ae9ea14a96ab7988f1deb1b167d4e6973f3dc418
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Aug 30 09:40:25 2013 +0000
+
+    Added support for ChosenVehicleCustomization.
+
+commit d67b58ba4c9e3260721b1517a223b7ec0c550ea7
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Aug 30 01:33:22 2013 +0000
+
+    Updated GameInfo resources for Community Day 2013 Customizations, Costume Pack 3, Ultimate Upgrade Pack 2 DLCs.
+
+commit 4a5adbeb390b971bac3df48496242504f94bb45f
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jul 19 06:19:46 2013 +0000
+
+    Small optimization for bogocrypt functions: a seed of 0 basically causes nothing to happen, so return instantly when the seed is 0 to avoid having to allocate temporary buffers at all since nothing will change.
+
+commit 591a20285ec05bdddb665e4f720df2884cd21441
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Jul 6 03:42:05 2013 +0000
+
+    Gave SaveEdit a better AssemblyTitle.
+
+commit be242afc9cf6b1790a09e34095358a0fc0ad40e0
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Jul 6 03:41:48 2013 +0000
+
+    Fixed SaveEdit project file so that it builds in Any CPU mode.
+
+commit 91622f48c8c9127ec4cd113d2a2328d8c6e2d465
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Thu Jul 4 09:00:48 2013 +0000
+
+    - Bumped Caliburn Micro version up to 1.5.1.0.
+    - Rebuilt Caliburn Micro contrib due to previous line.
+    - Added shortcuts to various windows for some basic things in SaveEdit:
+        New File (Ctrl+N)
+        Open File (Ctrl+O)
+        Save File (Ctrl+S)
+        Paste Code (Ctrl+V) in Backpack and Bank tabs
+        Copy Code (Ctrl+C) in Backpack and Bank tabs
+        Delete item/weapon (Delete) in Backpack and Bank tabs
+    - Moved Gear Calculator link stuff on the Backpack and Bank tabs to its own view so I can reformat Backpack and Bank tabs without worrying about the Gear Calculator link getting messed up.
+
+commit 808586057ed36d3c5b9065d1ccb5b5e6cc9820ff
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Thu Jul 4 08:58:33 2013 +0000
+
+    Reformatted ShellView in SaveEdit.
+
+commit 1bccea8acd07768d88b8a6418ec95123c5e946bc
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Thu Jul 4 08:52:52 2013 +0000
+
+    Added save guid to general tab in SaveEdit.
+
+commit e895ddf4fb449687655489205446801478ca3357
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Thu Jul 4 08:51:05 2013 +0000
+
+    Reformatted GeneralView.xaml.
+
+commit 3e22fd8f35e8a3121074ef2c37c442b0e06174a3
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Jul 1 00:26:17 2013 +0000
+
+    Corrected visibility on some classes.
+
+commit 08b1d62961afd61eaa33b97ff62986db3ee79eca
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Jul 1 00:10:37 2013 +0000
+
+    Year bump.
+
+commit 208e40dbfb6932bbd4c1d79f1793a9d187804212
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jun 28 22:46:06 2013 +0000
+
+    Fixed issue with repeatedly saving without loading and expansion data (eridium > 99, last playthrough number > 1, playthroughs completed > 1).
+
+commit 060b59686233a9f415a8e2f69df5db64eb6b5490
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jun 28 22:44:39 2013 +0000
+
+    Better handling of weapons and items that fail to load.
+
+commit f0a116f93eed4c7cf7c7bef25ac29306df10f1ca
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jun 28 22:43:31 2013 +0000
+
+    Clarified missing asset library set exception message.
+
+commit d575ff5d2d3c89aff508fd9b442fb14a9c806157
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jun 28 08:24:07 2013 +0000
+
+    Forgot the inventory serial number in the previous commit.
+
+commit 13200c589321bcb014ec0da9b2a96ed04a709d07
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jun 28 08:19:16 2013 +0000
+
+    Implemented support for the hacked-in DLC expansion data.
+
+commit 95e2f1cd80e3e569b3b20bdf4390b6561ebe6a28
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jun 28 06:35:50 2013 +0000
+
+    Fixed some exceptions to have more detailed error messages when invalid sublibrary / asset indices are specified.
+
+commit 72be69787f1ce6b3f0d0d27201f36386bd16ad1b
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jun 28 06:31:53 2013 +0000
+
+    Updated platform configuration to include Xbox 360 sublibrary remappings for Dragon Keep DLC.
+
+commit c060286d9e26d6434747a786f7a7069c3baebafc
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jun 28 06:30:06 2013 +0000
+
+    - Moved Platform enum from FileFormats to GameInfo.
+    - Implemented InfoDictionary generic with specifiable key type.
+    - Extended backpack item and weapon views in SaveEdit.
+    - Added platform config support and loading to GameInfo.
+    - Packed data serialization now passes platform around for platform-specific handling when necessary.
+    - Added support to packed data serialization for remapping of sublibraries on a per-platform basis, via information from GameInfo PlatformConfiguration data.
+
+commit 70979c7dddd63dbfe8b51975a0954045205d6929
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jun 28 06:20:54 2013 +0000
+
+    Updated GameInfo resources due to revision #168.
+
+commit 1dd41427754c5bd2126274eaa204c77e40b902ea
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jun 28 06:20:21 2013 +0000
+
+    Updated GameInfo resources due to sorting of asset library manager and downloadable contents.
+
+commit eca8c19f6fef9f68b7b6f57922accead25257015
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jun 28 00:37:05 2013 +0000
+
+    - Added InvariantCulture to a few string.Format calls, just in case.
+    - Fixed sorting of fast travel stations and teleporters.
+
+commit 2212bf39d2f3d45f8dbab0cbb6e665e8ff7b9599
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Jun 18 16:55:28 2013 +0000
+
+    Added support for CrossDLCClassMod item type.
+
+commit 794acf48a46ef096b756cc0c0ea797e4854c2c95
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Jun 18 16:50:50 2013 +0000
+
+    Updated GameInfo resources for Dragon Keep, Costume Pack 2 DLCs.
+
+commit 2f2bbb5e8130426f1509acb266b795d55f3fde5a
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Thu Apr 18 16:48:35 2013 +0000
+
+    - Added Psycho to CustomizationUsage.
+    - Added support for filtering to Psycho customizations when selecting Psycho as your class.
+    - Corrected issue where the DLC dropdown on the Backpack and Bank views displayed DLCs that did not define an asset library set.
+    - Updated GameInfo resources for Psycho Pack, Loot Chest 2, Poker Night at the Inventory 2 DLCs.
+
+commit 716cdc810956437e0c23345a3fbaf43c8d5d18c3
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Apr 3 03:43:16 2013 +0000
+
+    Corrected another issue related to the expansion data hack on packed item data.
+
+commit 5c8a43b3493d49605d98cbc93f5da6f97202fbd9
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Apr 3 02:27:01 2013 +0000
+
+    Apparently using DLCExpansionData for expansion data is too much to ask, instead they put it in the packed item data?!?!
+
+commit 8034c98b414c0c995a6fb299283dc82c5d609274
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Apr 3 00:01:46 2013 +0000
+
+    - Added messages for exceptions thrown in PackedDataHelper.
+    - Added BalanceModifier to DownloadableContentType enum.
+    - Bumped maximum level in SaveEdit to 61.
+    - Corrected AssetLibraryDefinition so it can support definitions without a type specified.
+    - Reimplemented creating new weapons and items in both Backpack and Bank views.
+    - In addition to the previous change, added a dropdown to create weapons and items for specific asset library sets.
+    - Sets now display their name (when available) in the base weapon and item views.
+    - Updated GameInfo resources for Ultimate Vault Hunter Mode DLC.
+
+commit a4516c12c5d3e3751c83a5442e7d75cd687e16a6
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jan 11 08:16:22 2013 +0000
+
+    Added revision display text to the SaveEdit window title.
+
+commit 1b7e1476814768ab0088c50a0e4fcc94339017f8
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jan 11 07:36:44 2013 +0000
+
+    Corrected sorting of head and skin assets in SaveEdit.
+
+commit 3b3ce8c7b8237ebf013dc8c49d9afedad22eaae6
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jan 11 07:18:31 2013 +0000
+
+    Update GameInfo resources for Costume Pack DLC.
+
+commit 12020eaa7d4401109c12c0fdc758637c9b7f5c3d
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Thu Dec 13 19:42:42 2012 +0000
+
+    Update GameInfo resources for Hammerlock's Hunt DLC.
+
+commit 6a3714016fb60dc0466e886eb76cba2729c71c8c
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Thu Dec 13 19:17:24 2012 +0000
+
+    PlaythroughNumber in MissionPlaythroughData is no longer being serialized as of patch 1.30.
+
+commit 08676fad79d3d94aabcc309705e11aacb82f1d68
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Dec 5 22:18:12 2012 +0000
+
+    Dropped "Borderlands 2" prefix on all of the open/save file dialog filter list.
+
+commit 93abafd36245dd062a0877b8992a328831d7ab8b
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Dec 5 21:30:04 2012 +0000
+
+    Use open file dialog filter list for platform selection rather than buttons for individual platforms.
+
+commit 3408e8c6352b03981b499c6e61da134f7f41a93b
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Dec 5 01:13:19 2012 +0000
+
+    - No longer auto-detects save file endian, uses specified platform instead.
+    - Implemented catching of zlib exceptions for better error messages.
+
+commit d4dd8c6fdf9c276187ae1b99c200ab441fee4d65
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Dec 5 01:06:44 2012 +0000
+
+    - Moved About tab to its own View/ViewModel.
+    - Implemented experimental support for PS3 saves. (You must decrypt your saves using an external tool such as pfdtool first!)
+
+commit e6f5dc8b93c47127082158995da13cb2aeb28d60
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Nov 14 12:25:28 2012 +0000
+
+    Add support for Torgue Tokens in CurrencyOnHandView.
+
+commit 61a283537949b3ed89cb588d99fe3fc1f8fea3f9
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Nov 14 11:44:42 2012 +0000
+
+    - Add support for MissionItem to GameInfo.
+    - Fix ItemnamePartDefinition so name is not required.
+
+commit 910c586d9d392744dd80bda18cdb6fdd5eebc38e
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Nov 14 11:40:32 2012 +0000
+
+    Update GameInfo resources for Mr. Torgue's Campaign of Carnage DLC.
+
+commit 8d1e30e67a7acb6b567f5d4e29051d35cebe8500
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Nov 14 11:29:04 2012 +0000
+
+    Correct RegionGameStagedata definition, again (broke due to Mr. Torgue's Campaign of Carnage DLC being prepatched into the PC version).
+
+commit 6decbca593265bc28462c4a0142ab2f5c3d81702
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Nov 7 00:47:18 2012 +0000
+
+    Correct RegionGameStagedata definition.
+
+commit 0d8e5ef21182f46c9d743913fdaa3384b957d97b
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Nov 6 21:59:02 2012 +0000
+
+    - Support for casting save game Guid type to System.Guid.
+    - More reasonable default values for some save structures.
+
+commit b25ba15a015855b44242628cabdcb4f0a3cb048b
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Nov 6 21:57:29 2012 +0000
+
+    Set a value of None to LastVisitedTeleporter in new save agmes.
+
+commit 719611f328022e11a9b1ef867a8dda92cddd30a7
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Nov 6 21:52:53 2012 +0000
+
+    - Link to duncanfogg's gear calculator on the backpack and bank views.
+    - Remove the dummy image on the backpack and bank view lists until they're actually implemented.
+    - Tabs are no longer directly locked before loading a save.
+    - Added About tab.
+    - Implemented New button.
+
+commit a1f943720095224916d01584621f4e1b7aee3b6c
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 30 23:55:19 2012 +0000
+
+    Didn't mean to leave that pause there.
+
+commit da17b329ed3dc07a1988db8939bafca40f22ed79
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 30 23:52:42 2012 +0000
+
+    Call vsvars32.bat in the dist batch.
+
+commit cd3708b4674679d02b7a9634c2a2d4235a6e7579
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 29 19:50:50 2012 +0000
+
+    Fixing a silly typo.
+
+commit 089d1490e096107123fda368f930ae0c139aec6c
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Oct 26 16:47:05 2012 +0000
+
+    Correcting some protobuf definitions.
+
+commit 550ef88544a1aaab558fd895d5514c52afdf3071
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Oct 26 16:37:50 2012 +0000
+
+    Use Gearbox's name for packed weapon/item data.
+
+commit f4ebd57a594340dc4f73e8d44b16b3e1b2c95de1
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 23 23:38:19 2012 +0000
+
+    Add level sync buttons to Backpack, Bank tabs.
+
+commit 6389bcc44f5b61e29836ec83ef4cc186d19026eb
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 23 23:03:29 2012 +0000
+
+    - Removed unused Weapon Parts and Item Parts resources from GameInfo.
+    - Added Weapon Name Parts and Item Name Parts resources to GameInfo.
+    - Weapon and item name generation in SaveEdit.
+
+commit 86aaec815a5ea6843d4c5cba5381c3db0cfbcb3d
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 23 12:16:32 2012 +0000
+
+    Group level transitions by DLC.
+
+commit 76f187cb00a6b61673fc8a46a67eff25202e858b
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 23 12:13:08 2012 +0000
+
+    Sort level transitions by resource name.
+
+commit b3a8e88802de19a65945446ab5eeeff98463b705
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 23 12:11:12 2012 +0000
+
+    - Updated Travel Stations dump.
+    - Loading of DestinationStation/DisplayName for TravelStationDefinition in GameInfo.
+    - Add all level transitions to LastVisitedTeleporter combobox in FastTravelView in SaveEdit.
+
+commit 1f7e344ed6e16d09ff97183165092eef293b3dc6
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 23 11:50:53 2012 +0000
+
+    Add a dummy teleporter entry to the LastVisitedTeleporter combobox on FastTravelViewModel when it's an unknown one.
+
+commit 932f3c34707a0c7626133218354e004033c31e3e
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 23 11:23:05 2012 +0000
+
+    Correct teleporter names in the LastVisitedTeleporter combobox on FastTravelViewModel.
+
+commit 2c824f87b53c901660a402c4420a801339a14674
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 22 08:11:12 2012 +0000
+
+    Better short URL for IsBadassModeSaveGame info.
+
+commit aac19d063a08edd15f85c420cba2eac202a9ab99
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 22 03:44:18 2012 +0000
+
+    Clear IsBadassModeSaveGame on load, now with notification about it.
+
+commit b4a325eea36501aad7f784605ba8979907e6a306
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 22 03:25:41 2012 +0000
+
+    Clear IsBadassModeSaveGame on load.
+
+commit d00676382435f0616813cb308cbeaf0e1f12939b
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 21 23:33:19 2012 +0000
+
+    Add a "None" entry to AvailableTeleporters in FastTravelViewModel.
+
+commit 0fcb3776f6d8b0b4c49b7c8917b623bbcb3d620a
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 21 23:29:41 2012 +0000
+
+    Fix teleporter display name in FastTravelViewModel.
+
+commit cdd051e867a403b21fabd8a49a7f57112222a5fc
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 21 23:24:20 2012 +0000
+
+    - Implemented loading of fast travel station ordering information in GameInfo.
+    - Updated FastTravelView to group teleporters as well as respect game ordering of teleporters.
+
+commit 5b7608a1ca9e58c813ff0550e7513c33c1e11be5
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 21 21:58:42 2012 +0000
+
+    Switch ObservableCollection<>s in ProtoBufFormats back to List<>s.
+
+commit 3372adfcb3b630a22f5451fa104f092666987f2f
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 21 21:50:13 2012 +0000
+
+    - ResourceName for TravelStationDefinition in GameInfo.
+    - Updated Travel Stations resource in GameInfo.
+    - Implemented Fast Travel tab in SaveEdit.
+
+commit fb2ad245ab9cd7b3358a83d5b4eac498085c80df
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 21 20:32:42 2012 +0000
+
+    - Minor cleanup of some GameInfo loader code.
+    - Replaced thrown KeyNotFoundException with new ResourceNotFoundException.
+
+commit e43a38790af8312cc9b2a3990c09490b066040b5
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 21 20:16:09 2012 +0000
+
+    Set SaveFile after data has been imported, so if an exception is thrown, it won't enable the editor improperly.
+
+commit eb396502c2774efa271dd438b411121c0a0dccd9
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 20 17:33:18 2012 +0000
+
+    Implemented loading of travel station information in GameInfo.
+
+commit c6c4e8d11037e5d209bb18d8c4c402ffe9e77162
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 20 17:30:26 2012 +0000
+
+    Cleanup of protobuf member names.
+
+commit 4925da2d916b45de83e0c49f314c1902385c190b
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 20 11:40:28 2012 +0000
+
+    - Add Experience info to GameInfo.
+    - Sanity check experience points and level on save load.
+    - Add buttons to SaveEdit for synchronizing experience level and points.
+
+commit 8cbb39d6f8d042ad62010b265adf45913e8c43a0
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Oct 19 05:42:30 2012 +0000
+
+    Use a static unique ID (0) instead of a random one for copied codes.
+
+commit d05bfad11e53f59e6a3cbc15fdc45ef1abe6f547
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Oct 19 05:19:34 2012 +0000
+
+    Display a warning when attempting to paste codes and none were found.
+
+commit 8906abc4268da6e01b83dd3cc962bd236028c804
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Oct 19 05:05:27 2012 +0000
+
+    Not mentioned in previous commit:
+    - Player classes are now provided via GameInfo.
+    - DownloadableContent and DownloadablePackage info provided via GameInfo.
+    - CustomizationSet removed from GameInfo (due to previous line).
+
+commit 2245d3443bd02aa4e82e27a00a3aa4d92fb22270
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Oct 19 05:03:11 2012 +0000
+
+    - Cleaned up member naming in BaseItem/BaseWeapon.
+    - Retooled most of the GameInfo project for better organization and data loading.
+    - With GameInfo being retooled, weapon and item balance information generation has been redone and will now properly support things that were broken before (shields, class mods, relics, etc).
+    - BaseItemViewModel/BaseWeaponViewModel now generate manufacturer assets.
+    - Removed warning icon for manufacturer, prefix part, title part on BaseItemViewModel/BaseWeaponViewModel as they are completely unnecessary.
+    - Renamed PlayerView/PlayerViewModel to GeneralView/GeneralViewModel in SaveEdit.
+    - Added icon for Fast Travel tab, replaced icons for General, Backpack tabs.
+
+commit 4f4dfa5e62b5150fb3aa6be43b71daf1ce5e2418
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Oct 17 18:45:13 2012 +0000
+
+    Prevent editing of IsBadassModeSaveGame.
+
+commit ece11a579494eb7b651c84f81d20f41d319c8f33
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Oct 17 16:43:04 2012 +0000
+
+    - Drop SavePackMessage/SaveUnpackMessage in favor of directly called ImportData/ExportData.
+    - CurrencyOnHand now sanely stores state instead of directly modifying SaveGame data.
+
+commit 312c2448143d210a44599ac9018037592c62c941
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Oct 17 11:14:20 2012 +0000
+
+    - Corrected LockoutData definition.
+    - Fixed some field names in MissionData and RegionGameStageData.
+
+commit 5f62d626b99f9d2b71694b48db079191afb8106e
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 16 16:13:30 2012 +0000
+
+    Descriptive errors for thrown FormatExceptions in BackpackViewModel and BankViewModel.
+
+commit a5386cfed912ae10d1c28cf98dd8b0d3e576f940
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 16 15:06:08 2012 +0000
+
+    - Update Weapon Types and Item Types in GameInfo, as well as their backing code.
+    - Update SaveEdit to reflect previous change.
+
+commit 5fe502022437509d9bc4a1812cffb2315ff62e29
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 23:02:21 2012 +0000
+
+    Is it stack traces that make people not read perfectly understandable error messages? WHO KNOWS.
+
+commit 69abb3461334793bebb43d7a2a0c91df21a71651
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 22:34:23 2012 +0000
+
+    Clarify to stupid people that you can, in fact, copy the exception error dialog to the clipboard using ctrl+c to paste.
+
+commit 667ea52b7a586e6ec3de32fda6fe62eaeb3bfcb2
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 22:06:31 2012 +0000
+
+    - Change CharacterName from string to bytes, to prevent reencode issues due to encoding problems.
+    - PlayerView now assumes CharacterName is UTF8 data.
+    - Set quite a few bindings to update on property change.
+
+commit 11367168b5ea3900c50863b10aa3528f90f07353
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 20:32:42 2012 +0000
+
+    - LZO code updated to support offsets into byte buffers.
+    - Support for "fat" save files, this should fix LookbehindOverrun load failures.
+
+commit d52eb36c62a9f287b26cd4cd3485adc9c720a9be
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 15:29:53 2012 +0000
+
+    Resharper recommendations.
+
+commit a159b4cb770b1f799c4262251d3764cc1d7fa42d
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 15:28:31 2012 +0000
+
+    Resharper recommendations.
+
+commit 9785c2185d992ffeac08257dadde6da5c5d1bf51
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 15:26:53 2012 +0000
+
+    Resharper recommendations.
+
+commit e37030feb4760fcf75ff86a0a49e8e9ac86721ff
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 15:25:45 2012 +0000
+
+    Resharper recommendations.
+
+commit 291b3b08557eca3e56b42e80339571a8954aa7bd
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 15:00:06 2012 +0000
+
+    Wrap CopySelectedSlotCode in a DelegateResult.
+
+commit 2554e8fe5e3847484a628bf011117607f3ab2af0
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 14:48:17 2012 +0000
+
+    Yet another attempt at clipboard shenanigans.
+
+commit c968deb121fcd34d0906d1daba7c5c4454126c7e
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 14:13:11 2012 +0000
+
+    Resharper recommendations.
+
+commit 8affbcd5171befaa61d4e00343ac3e9d9a65cd49
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 14:02:43 2012 +0000
+
+    Another attempt at clipboard shenanigans.
+
+commit f45b31b6d777b3e9e895a8829ed8b590c5fc314b
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 13:36:20 2012 +0000
+
+    Handle every clipboard COM result.
+
+commit 00edc4a21958a08e0980f0ffe3e4119510dfa32a
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 13:27:41 2012 +0000
+
+    Fix handling of exceptions in MyClipboard.
+
+commit 34e3a6904fd49aabb9f1038e9799738e7c7d7c6f
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 13:12:08 2012 +0000
+
+    Implement wrapper around WPF Clipboard since it prefers to blow up.
+
+commit 240d2ea8f7f3876d3f905f749a642bb8f865a1f7
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 12:18:38 2012 +0000
+
+    Temporary try/catch handler in CopySelectedSlotCode for Kyle873.
+
+commit a0517e3213cb4b65b62193c4bf78d75e0abe72ff
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 11:58:38 2012 +0000
+
+    dist updates.
+
+commit cfdac3b97996701022ad02e69b8f45cc97ede250
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 11:15:23 2012 +0000
+
+    - Renamed ISlot to IBaseSlot.
+    - BaseWeapon and BaseItem now both use the IBaseSlot interface.
+    - Added BankView, BankViewModel to SaveEdit.
+    - Renamed PackedData in BankSlot to Data.
+    - Move use of CMContrib's dialogs to new implementation MyMessageBox, which uses the standard Windows message box dialog.
+
+commit 046d31400f3d0f7cf16fd289b004282fbb6e366c
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 07:51:47 2012 +0000
+
+    - Add CustomizationSet and related resource file to GameInfo.
+    - Renamed GameInfo resource Customization to Customizations.
+    - Implemented grouping of head and skin assets in PlayerView.
+
+commit 23c4c79533124aad049b9729ceb07be4eb69e586
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 07:14:07 2012 +0000
+
+    Add ErrorCode enum to LZO code.
+
+commit e44c77c79a2a29a129330fe4c2837cd694b80d99
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 04:44:57 2012 +0000
+
+    Assign a new unique ID to copy and pasted slots.
+
+commit 0e7dfde87bbcff0c33b5ed530b8c60b3e35f0dbb
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 15 04:30:01 2012 +0000
+
+    Implement duplicate, delete, copy code, paste code in BackpackView.
+
+commit 41084e08ed192bbab816d4bc3bf6a6ef94f58705
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 14 06:08:13 2012 +0000
+
+    Didn't mean to update the set IDs.
+
+commit 78c15228858139e4b4709e548c325bb7a61bb247
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 14 06:03:41 2012 +0000
+
+    Load json via unmanaged resource stream.
+
+commit 30645c2dd918d7c8b08cc0f0e1333873da9acf23
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 14 05:34:37 2012 +0000
+
+    - Update GameInfo & co to reflect small name change in balance data.
+    - Redumped most json files.
+    - Add Fast Travel Stations json file.
+
+commit 0ba961eed401925f99e5ffd9409982ec593b9fbc
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 13 02:38:19 2012 +0000
+
+    Updated balance dumps & manufacturers support in ItemBalanceDefinition/WeaponBalanceDefinition.
+
+commit b8b04407047e8feb0b4f1e0698a742e2a3b13cde
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Oct 12 21:32:31 2012 +0000
+
+    Add extra configuration for building distributable SaveEdit to solution.
+
+commit 45938545d61abb19a31c10d1f5516fc13471c6c7
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Oct 12 21:32:04 2012 +0000
+
+    Add build_distributable_saveedit.bat & co.
+
+commit 10ceeeb18cb14728418f2ef714f7d2cd6a9f5b78
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Oct 10 23:03:42 2012 +0000
+
+    - Fixed crash due to PendingMissionRewards.PackedItemRewards being incorrectly flagged as IsPacked.
+    - Temporary workaround with PendingMissionRewards packed weapon and item data.
+
+commit 5309bc261d7e94c7dc7d73a006f3a0049df46b51
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Oct 10 15:16:02 2012 +0000
+
+    Improved handling of data on PlayerView.
+
+commit 662a5b31d86ff9511a35c0c5dae0bf62e81f9f2e
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Oct 10 13:21:34 2012 +0000
+
+    Forgot to fire off NOPCs in BaseItemViewModel.
+
+commit 59756ad6e22c081bf0a694fdfe0479fac1f35412
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Oct 10 13:20:13 2012 +0000
+
+    Don't default to raw tab.
+
+commit 9f300301d874cb29b18030eeec8d3248c224e803
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Oct 10 13:17:58 2012 +0000
+
+    Oops.
+
+commit 62ad6c4ce17c918283c97409855376bb3526de7d
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Oct 10 13:16:20 2012 +0000
+
+    Revert default new weapon/item to set 0 (not set 1).
+
+commit 9d5ef34e0bae88bae6e051b14ee385b67863ac0c
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Oct 10 13:15:40 2012 +0000
+
+    - Moved packable related code out of SaveEdit to FileFormats.
+    - PackableWeapon/PackableItem renamed to BaseWeapon/BaseItem.
+    - Lots of reorganization & refactoring on SaveEdit.
+    - PropertyGrid now uses an accessibility style, which is a WIP.
+    - PackableWeaponView/PackableItemView renamed to BaseWeaponView/BaseItemView.
+    - Added ViewModel wrappers around BackpackWeapon/BackpackItem.
+    - And due to above, reimplemented how combobox data is built from balance information.
+    - Seraph crystals moved back out of reserved expander. Plus icons.
+
+commit 448828e467e1fb7ff4bbabdcc43d8903374a4518
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Wed Oct 10 00:05:43 2012 +0000
+
+    - Reorganized AssetLibraryManager (and co.) to better support asset library sets properly (since everything broke with the new DLC release).
+    - Redumped asset library manager, customizations, item balances, item types, weapon balances (they now include Orchid / Tulip information).
+    - PackedDataHelper/PackableItem/PackableWeapon now read and write data for sets properly.
+
+commit 6b5d174d2f887af807fc14faa8f3d8f472e0df77
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 9 19:53:18 2012 +0000
+
+    Enable Gaige AssetDisplay now that I know its asset path.
+
+commit 793da191f05102d6576e8e93097452e96312bc04
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 9 19:51:15 2012 +0000
+
+    Flag MarketingCodesNeedingNotification as IsPacked.
+
+commit c0091a5740a93d9db3d687ce41a1055a4f560953
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 9 03:58:01 2012 +0000
+
+    Fix some issues with the default values on BackpackWeapon/BackpackItem (ie, they don't start out as marked as trash).
+
+commit 073ded118306247962f7f4a8e5db50279a0a9cd8
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 8 10:20:41 2012 +0000
+
+    Disable the UI in SaveEdit until a save is loaded.
+
+commit 557b311670e30552b75e5a895be7d617d2a18641
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 8 07:28:21 2012 +0000
+
+    Let's try that again.
+
+commit 646e2c2eae5618b8ed5160dc82f2f1f1d57101bb
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 8 07:25:29 2012 +0000
+
+    - Save reading/writing is now wrapped in an IResult.
+    - Fix another silent crash occurring when save path wasn't being found.
+
+commit bc38e4174d8d62c8e8fac4db98a3e81c10c3647f
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 8 07:06:12 2012 +0000
+
+    - Fix a silent crash occurring when save path wasn't being found (todo: move save read/writing to a custom IResult).
+    - Move seraph crystals under reserved section, since they're unused.
+    - Ability to modify endian of the save file.
+
+commit 47cf5cb3fa7fac708b9cf478e1626d9892e961c0
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 8 06:42:58 2012 +0000
+
+    VerifySaves support for big-endian save files (probably should migrate it to use SaveFile directly).
+
+commit a003b3344abae629d6023be8123ccbd0e6368254
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 8 06:40:54 2012 +0000
+
+    Support for big-endian save data (360, probably PS3).
+
+commit 6229d55f23922377b9ae2ad388e4585bda8ba2d0
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 13:07:19 2012 +0000
+
+    Fix handling of 'None' balance.
+
+commit fbc930ae169befc6e838aab351bb42ab0dd812cc
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 12:43:28 2012 +0000
+
+    - Add CustomizationDefinition (and underlying data) to GameInfo.
+    - SaveEdit now has dropdown data for Head / Skin customization choices.
+    - New Weapon / New Item now function in SaveEdit backpack view.
+
+commit 3bb3e58a6aa860c7011eb6c97d6f9ad82713d0fe
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 08:52:02 2012 +0000
+
+    Move to a custom built version of CMContrib to fix a stack overflow crash.
+
+commit d3f2bc2915e35c10018a765061747ad7da525134
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 05:43:31 2012 +0000
+
+    Prevent loading of XBOX 360 CON files (because some people are just stupid).
+
+commit 2ec27e5d171d448791f7536eceee1d62169bc7e7
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 04:24:36 2012 +0000
+
+    - Save now works in SaveEdit.
+    - BackpackViewModel now packs slots back up into PackedWeaponData/PackedItemData on save.
+
+commit b7df0d0cd0bb2394eaba9f5df281998974f16c60
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 03:57:19 2012 +0000
+
+    Add readme.
+
+commit d71ed24655c4bbdc425f0b3eae35f7ea68ce55a2
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 03:55:54 2012 +0000
+
+    - Add SaveEdit project.
+    - Add Test project.
+
+commit 4de2f61ba6d47aa565719927c9299d285c1e7b11
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 03:35:29 2012 +0000
+
+    Add SparkTmsUnpack project.
+
+commit 7e3bdd92cd6842389e73a0315caac74bdfb44231
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 03:16:00 2012 +0000
+
+    Add VerifySaves project.
+
+commit 7ee3e76a9ce30deb9b76dad3b0bf2854055e1083
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 03:14:02 2012 +0000
+
+    Forgot GameInfo todo list.
+
+commit ab2a517cdfa268462062256145efec18cfc85fbd
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 03:09:42 2012 +0000
+
+    Implemented SaveFile serialization.
+
+commit 1b4e0e2d2b65e4b8cf2363280f932807ed470793
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 03:02:21 2012 +0000
+
+    - Migrate some dependencies to NuGet.
+    - Set up bin/bin_test directories & properties.
+
+commit af02fa239bcd4c6811f1fc70cfbaf244285c061d
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 00:57:18 2012 +0000
+
+    Add FileFormats, ProtoBufFormats.
+
+commit 12d8d73a8ed16585c54b5b2de478530979ea6a6c
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 00:55:05 2012 +0000
+
+    Add some dependencies.
+
+commit cda4219b21d76f5789d4b4e0df5c1687b0fbd22e
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 7 00:46:52 2012 +0000
+
+    Add GameInfo project.
